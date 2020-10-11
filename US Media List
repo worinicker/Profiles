@@ -1,0 +1,47 @@
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,Final
+USER-AGENT,Prime%20Video*,Final
+DOMAIN-SUFFIX,aiv-cdn.net,Final
+DOMAIN-SUFFIX,aiv-delivery.net,Final
+DOMAIN-SUFFIX,amazonvideo.com,Final
+DOMAIN-SUFFIX,primevideo.com,Final
+DOMAIN,avodmp4s3ww-a.akamaihd.net,Final
+DOMAIN,d25xi40x97liuc.cloudfront.net,Final
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,Final
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,Final
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Final
+DOMAIN-KEYWORD,avoddashs,Final
+# > Disney+
+USER-AGENT,Disney+*,Final
+DOMAIN-SUFFIX,bamgrid.com,Final
+DOMAIN-SUFFIX,disney-plus.net,Final
+DOMAIN-SUFFIX,disneyplus.com,Final
+DOMAIN-SUFFIX,dssott.com,Final
+DOMAIN,cdn.registerdisney.go.com,Final
+# > encoreTVB
+USER-AGENT,encoreTVB*,Final
+DOMAIN-SUFFIX,encoretvb.com,Final
+DOMAIN,edge.api.brightcove.com,Final
+DOMAIN,bcbolt446c5271-a.akamaihd.net,Final
+# > FOX NOW
+USER-AGENT,FOX%20NOW*,Final
+DOMAIN-SUFFIX,fox.com,Final
+DOMAIN-SUFFIX,foxdcg.com,Final
+DOMAIN-SUFFIX,theplatform.com,Final
+DOMAIN-SUFFIX,uplynk.com,Final
+# > HBO NOW
+USER-AGENT,HBO%20NOW*,Final
+DOMAIN-SUFFIX,hbo.com,Final
+DOMAIN-SUFFIX,hbogo.com,Final
+DOMAIN-SUFFIX,hbonow.com,Final
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,Final
+DOMAIN-SUFFIX,huluim.com,Final
+DOMAIN-SUFFIX,hulustream.com,Final
+# > PBS
+USER-AGENT,PBS*,Final
+DOMAIN-SUFFIX,pbs.org,Final
+# > 华文电视
+USER-AGENT,HWTVMobile*,Final
+DOMAIN-SUFFIX,5itv.tv,Final
+DOMAIN-SUFFIX,ocnttv.com,Final
