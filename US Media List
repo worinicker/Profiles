@@ -11,6 +11,9 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net,Final
 DOMAIN,d22qjgkvxw22r6.cloudfront.net,Final
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Final
 DOMAIN-KEYWORD,avoddashs,Final
+# > Apple TV+
+USER-AGENT,Apple TV+*,Final
+DOMAIN-SUFFIX,tv.apple.com,Final
 # > Disney+
 USER-AGENT,Disney+*,Final
 DOMAIN-SUFFIX,bamgrid.com,Final
