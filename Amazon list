@@ -1,12 +1,14 @@
 # > Amazon Prime Video
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,primevideo.com
-DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN-KEYWORD,avoddashs
+USER-AGENT,InstantVideo.US*,Amazon
+USER-AGENT,Prime%20Video*,Amazon
+DOMAIN-SUFFIX,aiv-cdn.net,Amazon
+DOMAIN-SUFFIX,aiv-delivery.net,Amazon
+DOMAIN-SUFFIX,amazon.com,Amazon
+DOMAIN-SUFFIX,amazonvideo.com,Amazon
+DOMAIN-SUFFIX,primevideo.com,Amazon
+DOMAIN,avodmp4s3ww-a.akamaihd.net,Amazon
+DOMAIN,d25xi40x97liuc.cloudfront.net,Amazon
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,Amazon
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,Amazon
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Amazon
+DOMAIN-KEYWORD,avoddashs,Amazon
